@@ -1,0 +1,24 @@
+{
+  "name": "unittests-js",
+  "version": "1.0.0",
+  "description": "JavaScript unit tests for backend project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^10.4.0",
+    "sinon": "^18.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkinsolaTemidayo/alx-backend-javascript.git"
+  },
+  "author": "AkinsolaTemidayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkinsolaTemidayo/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/AkinsolaTemidayo/alx-backend-javascript#readme"
+}
