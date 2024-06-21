@@ -1,13 +1,8 @@
 {
-  "name": "unittests-js",
+  "name": "10-api",
   "version": "1.0.0",
-  "description": "JavaScript unit tests for backend project",
-  "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {
-    "mocha": "^10.4.0",
-    "sinon": "^18.0.0"
-  },
+  "description": "A simple API for learning basic integration testing in NodeJS",
+  "main": "api.js",
   "scripts": {
     "test": "mocha"
   },
@@ -20,4 +15,5 @@
   "bugs": {
     "url": "https://github.com/AkinsolaTemidayo/alx-backend-javascript/issues"
   },
-@@@
+  "homepage": "https://github.com/AkinsolaTemidayo/alx-backend-javascript#readme"
+}
