@@ -1,5 +1,5 @@
 const request = require('request');
-const { expect } = require('mocha');
+const { expect } = require('chai');
 
 describe('API integration test', () => {
   const API_URL = 'http://localhost:7865';
